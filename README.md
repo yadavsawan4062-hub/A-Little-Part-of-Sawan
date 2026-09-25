@@ -9,7 +9,7 @@ This project is a small part of my journey as a developer, created while learnin
 
 ## 🌍 Live Demo
 
-🚀 **Coming Soon**
+🚀 **(https://a-little-part-of-sawan-psi.vercel.app)**
 
 ---
 
